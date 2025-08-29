@@ -1,8 +1,8 @@
-# EvalAI_OCR_dataset
+# EvalAI_dataset
 
 ## Dataset
 
-The dataset is available at [EvalAI_OCR_dataset](https://github.com/EvalAI/EvalAI_OCR_dataset).
+The dataset is available at [EvalAI_dataset](https://github.com/EvalAI/EvalAI_dataset).
 
 ### Find the OCR dataset inside `ocr_dataset` folder.
 
