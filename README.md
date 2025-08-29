@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The dataset is available at [EvalAI_dataset](https://github.com/EvalAI/EvalAI_dataset).
+The dataset is available at [EvalAI_dataset](https://github.com/OpenPecha/EvalAI_dataset).
 
 ### Find the OCR dataset inside `ocr_dataset` folder.
 
